@@ -1,0 +1,5 @@
+node_modules/
+.vivliostyle/
+package-lock.json
+*.pdf
+.DS_Store
