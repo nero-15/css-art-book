@@ -1,0 +1,14 @@
+{
+  "name": "css-art-book",
+  "description": "『CSSで絵を描く ― 座標から始める実践レシピ』の内容を Claude Code から使うためのプラグインの配布元。",
+  "owner": {
+    "name": "nero15"
+  },
+  "plugins": [
+    {
+      "name": "css-art",
+      "source": "./plugins/css-art",
+      "description": "画像もSVGも使わず、CSSだけで絵を描くためのスキルとエージェント。『CSSで絵を描く』の内容をまとめたもの。"
+    }
+  ]
+}
